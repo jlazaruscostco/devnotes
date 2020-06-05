@@ -1,6 +1,6 @@
 # Costco E-Commerce Fulfillment Development Team
 
-<img src="https://github.com/jlazaruscostco/devnotes/blob/master/Annotation%202020-06-05%20130338.png" alt="alt text" width="850">
+![Legacy Costco sales model](Annotation%202020-06-05%20130338.png "title")
 
 We are the Costco E-Commerce Fulfillment Development team. We belong to larger e-commerce family. To the right, you can see an image depicting the legacy sales model previously implemented by our company. As the leading development team at Costco, we feel a heavy responsibility to document all of our knowledge and general supremacy. As the superior development team, shirking responsibility is not in our playbook. So, we followed the only reasonable path and founded this repository. 
 
