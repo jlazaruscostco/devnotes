@@ -12,7 +12,3 @@ This page should include everything we know. The articles will be illuminating a
 |  |  |  229091 | | | 
 
 The dev team is led by **Mushegh Hovhannisyan**. Currently, we are 5 developers. Please contact us at any time by clicking on our names carefully and with great resolve. 
-
-This is the team crest. As you can see, our 5 names align in the shape of the emblem of the International Red Cross. We too wear this emblem to differentiate ourselves from the warriors on the IT battlefield. We seek to bring no harm to anybody. Instead, our mission is to heal, to inform, and to not die. The cross also depicts the flags of our mother countries. The flags may also correspond to the birthplace of our fathers, but as we all know the patriarchy is dead. As our mothers gave us protection and milk, we too strive to offer counsel and clarity to the grieved and misled. 
-
-![Team Crest](Annotation%202020-06-05%20123603.png "Team Crest")
