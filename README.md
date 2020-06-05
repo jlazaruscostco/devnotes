@@ -9,7 +9,7 @@ This page should include everything we know. The articles will be illuminating a
 | [Toffer](mailto:kpalm@costco.com) | [Dan](mailto:ddurr@costco.com) | [Justin](mailto:jlazarus@costco.com) | [Sri](mailto:sguttikonda@costco.com) |[Mush](mailto:mhovhannisyan@costco.com) 
 | --- | --- | --- | --- | --- |
 | 🏃 | 👷 | 🚴 | 🧙‍♀️ | 🧙‍♂️ |
-|  |  |  229091 | | |
+|  |  |  229091 | | | 
 
 The dev team is led by **Mushegh Hovhannisyan**. Currently, we are 5 developers. Please contact us at any time by clicking on our names carefully and with great resolve. 
 
